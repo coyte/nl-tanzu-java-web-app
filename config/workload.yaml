@@ -16,6 +16,6 @@ spec:
         apps.tanzu.vmware.com/language: java
   source:
     git:
-      url: https://github.com/viktoriousss/nl-tanzu-java-web-app
+      url: https://github.com/coyte/nl-tanzu-java-web-app
       ref:
         branch: main
